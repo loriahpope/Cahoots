@@ -1,0 +1,1 @@
+This project is a JavaScript implementation of a simple Blackjack algorithm.
